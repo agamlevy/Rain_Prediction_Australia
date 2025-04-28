@@ -10,7 +10,7 @@ This project aims to predict whether it will rain tomorrow in Australia using ma
 
 ## Technologies Used
 
-- Python 3.x
+- Python
 - TensorFlow / Keras
 - Scikit-learn
 - Pandas, NumPy, Matplotlib, Seaborn
